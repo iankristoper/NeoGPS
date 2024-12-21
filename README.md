@@ -1,5 +1,5 @@
 NeoGPS
-======
+====== 
 
 This fully-configurable Arduino library uses _**minimal**_ RAM, PROGMEM and CPU time, 
 requiring as few as _**10 bytes of RAM**_, **866 bytes of PROGMEM**, and **less than 1mS of CPU time** per sentence.  
